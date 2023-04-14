@@ -6,4 +6,4 @@ Make sure to have the [Slither](https://github.com/crytic/slither) docker image 
 
 ### Pipeline
 
-![alt text](https://github.com/enaples/solgpt/blob/master/img/Solidity_sc_fixer_pipeline.pdf)
+![img/Solidity_sc_fixer_pipeline.pdf](https://github.com/enaples/solgpt/blob/master/img/Solidity_sc_fixer_pipeline.pdf)
